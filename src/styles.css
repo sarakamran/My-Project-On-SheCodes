@@ -27,7 +27,7 @@ li {
 .weather-app {
   border: 1px solid #dadde1;
   padding: 15px;
-  margin: 20px auto;
+  margin: 20px auto 0px;
   border-radius: 10px;
   max-width: 600px;
 }
@@ -52,4 +52,7 @@ li {
 
 .search-form {
   margin-bottom: 20px;
+}
+.open-souece{
+  margin:0px 256px;
 }
